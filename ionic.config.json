@@ -1,0 +1,7 @@
+{
+  "name": "AvesGuatemala",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
