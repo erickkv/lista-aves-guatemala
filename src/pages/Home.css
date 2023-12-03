@@ -1,0 +1,28 @@
+ion-page {
+    height: 100%;
+}
+
+ion-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+    padding: 20px;
+}
+
+.ion-text-center {
+    text-align: center;
+}
+
+.ion-text-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    height: 100%;
+}
+
+ion-button {
+    margin-top: 20px;
+}
